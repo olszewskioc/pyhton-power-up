@@ -34,3 +34,7 @@ The classes consists in using python for automation, data analysis, AI and Web S
 ---
 
 ## Class 2 - Data processing
+	
+	* All the info for the poject is in the Jupyter Notebook
+
+## Class 3 - AI
